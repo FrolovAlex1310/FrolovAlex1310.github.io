@@ -1,0 +1,44 @@
+.heder {
+    font-size: 20px;
+    line-height: 1.5;
+    margin: 60 auto;
+    padding-bottom: 60px;
+}
+.heder span{
+    display: block;
+}
+.video{
+    margin-bottom: 30px;
+}
+.section{
+    padding: 30px;
+}
+.form {
+border: 4px solid rgb(34, 9, 196);
+padding: 35px 20px;
+}
+.form-heder {
+    font-size: 20px;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+.form input {
+    margin-bottom: 20px;
+}
+.btn {
+background-color: rgb(34, 9, 196);
+}
+.button-2{
+    width: 350px;
+    margin: auto;
+    margin-top: 15 0px;
+}
+.feature .btn {
+margin-top: 60px;
+}
+.foto{
+    margin-bottom: 60px;
+    height: 300px;
+    width: 200px;
+    margin: auto;
+}
