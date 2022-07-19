@@ -3,4 +3,4 @@
 # Александр Фролов
 ## Мои домашние задания
 
-[урок 7](https://frolovalex1310.github.io/yrok_7/) "Описание")
+[урок 7](https://frolovalex1310.github.io/yrok_7/ "Моя страница")
